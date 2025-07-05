@@ -8,6 +8,7 @@ This repo serves as a journal of my DSA journey. It includes:
 
 - 💡 Solutions to a variety of LeetCode problems
 - 🧠 Common DSA patterns (e.g., Two Pointers, Sliding Window, Recursion)
+- 📝 Code is well-commented for better understanding
 - 📈 Continuous updates as I solve new problems
 
 ---
